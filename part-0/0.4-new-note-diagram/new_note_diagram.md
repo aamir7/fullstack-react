@@ -1,3 +1,4 @@
+```mermaid
 zenuml
     title Part 0 (New note diagram)
     @Actor Browser #FFEBE6
@@ -24,3 +25,4 @@ zenuml
       }
       Browser.executeJS(data.json)
     }
+```
